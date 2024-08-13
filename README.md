@@ -1,4 +1,4 @@
-- 👋 Greetings, I'm Juwon Oluwole
+- 👋 Hello, I'm Juwon Oluwole
 - 👀 I’m interested in data analytics
 - 🌱 I’m keen on more work on data storytelling
 - 💞️ I’m looking to collaborate on data analytics projects and volunteer projects
